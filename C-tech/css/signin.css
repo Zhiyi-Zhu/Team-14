@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.form-signin {
+    width: 300px; 
+    margin: auto;
+    margin-top:150px;
+    
+}
+
+.logo {
+    color: rgba(50, 50, 77, 0.9);
+    margin-top: 10px;
+}
+
+.form-control{
+    margin-top: 10px;
+}
+
